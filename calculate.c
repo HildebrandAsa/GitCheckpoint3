@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -9,6 +8,6 @@ int main() {
 	int c = a + b;
 	printf("Result: %d", c);
 
-		return 0;
+	return 0;
 }
 
